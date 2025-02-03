@@ -1,0 +1,1 @@
+console.log("versi 1")
